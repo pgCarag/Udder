@@ -18,6 +18,7 @@ struct ContentView: View {
                     .padding(.bottom)
                 Text("Fresh Milk, On Demand.")
                 Spacer()
+                Image("milk")
                 Spacer()
                 Spacer()
                 Spacer()
